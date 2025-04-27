@@ -88,8 +88,8 @@ int main() {
 	
 	// uncomment de test thuat toan
 	
-//	eulerCycleCoHuong(start);
-	eulerCycleVoHuong(start);
+	eulerCycleCoHuong(start);
+//	eulerCycleVoHuong(start);
 	for (int i = ce.size()-1; i >= 0; i--) {
 		cout << ce[i] << " ";
 	}
@@ -130,6 +130,9 @@ co huong:
 0 0 0 0 0 0 0 0 0 1 0 1 0 
 0 0 0 0 0 0 0 0 1 0 0 0 1 
 0 0 0 0 0 0 0 0 1 0 0 0 0
+
+
+
 
 
 
