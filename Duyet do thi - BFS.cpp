@@ -31,7 +31,7 @@ int main() {
             cin >> a[i][j];
         }
     }
-    cout << "Thuc hien thuat toan DFS tu dinh: ";
+    cout << "Thuc hien thuat toan BFS tu dinh: ";
     int start;
     cin >> start;
     BFS(start);
